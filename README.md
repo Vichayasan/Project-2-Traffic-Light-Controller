@@ -1,6 +1,6 @@
 # Project 2 Traffic Light Controller
 
-Name: \[Enter name]    Student ID: \[Enter student ID]
+Name: \Vichayasan Sreshthaputra   Student ID: \6872087421
 
 ## 1 Objective and system overview
 
